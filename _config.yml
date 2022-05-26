@@ -10,6 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/haris-rais/">View My LinkedIn Profile</a> 
   <br><br><br>
-  Complete Resume <a href="https://github.com/harisrais/portfolio/blob/master/CV-HarisRais.pdf">here </a>
+  Complete Resume <a href="https://github.com/harisrais/portfolio/master/CV-HarisRais.pdf">here </a>
   
 theme: jekyll-theme-minimal
