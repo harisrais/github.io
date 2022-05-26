@@ -1,5 +1,5 @@
 title: Muhammad Haris Rais # your name (or website title) here
-logo: "picture.jpg?raw=true" # your photo (or logo) here
+logo: "/images/picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   PhD Scholar
@@ -10,6 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/haris-rais/">View My LinkedIn Profile</a> 
   <br><br><br>
-  Complete Resume <a href="https://github.com/harisrais/portfolio/blob/master/CV-HarisRais.pdf">here </a>
+  Complete Resume <a href="https://github.com/harisrais/portfolio/master/pdf/CV-HarisRais.pdf">here </a>
   
 theme: jekyll-theme-minimal
