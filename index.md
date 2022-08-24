@@ -56,7 +56,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=bQ8qBw4AAAAJ&hl=
 Printing Process</div>
 * <div style="text-align: justify"> JTAG-based PLC Memory Acquisition Framework for Industrial Control Systems</div>
 * <div style="text-align: justify"> Spatiotemporal G-code Modeling for Secure FDM-based 3D Printing</div>
-* <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div>
+* <div style="text-align: justify"> Evolving Internet Traffic Trend in Pakistan</div> 
 
 ## Other Presentations
 * <div style="text-align: justify">Memory Forensic Analysis Methodology for Programmable Logic Controllers, AAFS, 2022</div>
