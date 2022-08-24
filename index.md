@@ -64,6 +64,7 @@ Printing Process</div>
 * <div style="text-align: justify">On Detecting Sabotage Attacks on 3D Printing Processes, CIMSS 2021</div>
 * <div style="text-align: justify">Forensic Readiness Framework for 3D Printing Process: A Case Study of Ultimaker 3, DFRWS, 2020</div>
 * <div style="text-align: justify">Security Aspects of Cloud, International IT and Telecom Show “ITCN ASIA”, 2013</div>
+
 ## Experience
 #### Security and Forensics Engineering (SAFE) LAB, VCU, Richomond
 Position: Graduate Research Assistant
