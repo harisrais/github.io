@@ -23,6 +23,7 @@ Google Scholar [link](https://scholar.google.com/citations?user=bQ8qBw4AAAAJ&hl=
 
 ## Awards and Honors
 * Best student paper award at DFRWS-EU 2022
+* First position in "Three Minute Thesis" (3MT) competition at VCU, College of Engineering
 * Gold medal for 1st position in Bachelor of Engineering and Master of Engineering
 * Gold medal for the “Overall Best Performer” at the University college
 * Gold Medal for the “Best Speaker” at the University college
